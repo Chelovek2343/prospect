@@ -882,6 +882,10 @@ img {
     color: #0eb582;
 }
 
+.icons{
+    margin-left: auto;
+}
+
 @media (max-width: 1200px) {
     .header {
         padding: 2rem 5%;
