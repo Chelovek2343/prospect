@@ -980,6 +980,10 @@ img {
     .about .content .about-title {
         font-size: 4rem;
     }
+
+    .videoMOV{
+        width: 281px;
+    }
 }
 
 @media (max-width: 320px) {
